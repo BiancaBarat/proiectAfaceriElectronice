@@ -1,0 +1,74 @@
+﻿@model dynamic
+
+    @{
+    ViewData["Title"] = "Order";
+    }
+<h4 style="color:ghostwhite">Order Info</h4>
+<hr />
+
+
+<form method="post" action="/Order/New">
+    <div class="form-group">
+        <label style="color:ghostwhite" for="FirstName">First Name:</label>
+        <input type="text" class="form-control" name="FirstName" value="">
+    </div>
+    <div class="form-group">
+        <label style="color:ghostwhite" for="LastName">Last Name:</label>
+        <input type="text" class="form-control" name="LastName" value="">
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-6">
+            <label style="color:ghostwhite" for="PhoneNumber">Phone Number:</label>
+            <input type="text" class="form-control" name="PhoneNumber" value=""><br>
+        </div>
+        <div class="form-group col-md-6">
+            <label style="color:ghostwhite" for="Email">Email:</label>
+            <input type="email" class="form-control" name="Email" value=""><br>
+        </div>
+    </div>
+    <div class="form-group">
+        <label style="color:ghostwhite" for="Address">Address:</label>
+        <input type="text" class="form-control" name="Address" value=""><br>
+    </div>
+
+    <button style="color:ghostwhite" type="submit" value="Submit" class="btn btn-primary">Place order</button>
+</form>
+
+
+<br/><br />
+
+
+<table id="table" class="table table-hover table-striped table-dark">
+    <thead>
+        <tr>
+            <th hidden>Product Id</th>
+            <th>Image</th>
+            <th>Product name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model.OrderDetails)
+        {
+        <tr id="@item.Id">
+            <td hidden>@item.Id</td>
+            <td><img style="width: 300px; height: 150px;" src="~/@item.ImagePath" alt="nu exista imagine momentan" /></td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+        </tr>
+        }
+
+    </tbody>
+
+</table>
+
+
+<div class="row mb-2 mt-2 operationsButtons">
+    <div class="col-md-12">
+        <button type="button" class="btn btn-delete btn-outline-delete font-weight-bold mr-2" id="btnDelete" data-toggle="tooltip" data-placement="top" title="Delete" onclick="Order.onDelete()">
+            <span class="fa fa-trash"></span>
+        </button>
+    </div>
+</div>

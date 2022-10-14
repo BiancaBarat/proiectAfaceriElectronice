@@ -1,0 +1,33 @@
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.deps.json
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.dll
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ref\ProiectMaster.Services.dll
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.pdb
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.DataAccess.dll
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Models.dll
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.DataAccess.pdb
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Models.pdb
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.AssemblyReference.cache
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.AssemblyInfoInputs.cache
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.AssemblyInfo.cs
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.CoreCompileInputs.cache
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.dll
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ref\ProiectMaster.Services.dll
+D:\facultate\ecommerce\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.pdb
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.deps.json
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.dll
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Services.pdb
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.DataAccess.dll
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Models.dll
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.DataAccess.pdb
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\bin\Debug\net5.0\ProiectMaster.Models.pdb
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.AssemblyReference.cache
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.AssemblyInfoInputs.cache
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.AssemblyInfo.cs
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.CoreCompileInputs.cache
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.csproj.CopyComplete
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.dll
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\refint\ProiectMaster.Services.dll
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ProiectMaster.Services.pdb
+C:\Users\Bianca Barat\OneDrive\Desktop\ECommerce-main\ProiectMaster\ProiectMaster.Services\obj\Debug\net5.0\ref\ProiectMaster.Services.dll
